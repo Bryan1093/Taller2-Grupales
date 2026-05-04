@@ -60,3 +60,7 @@ java -jar target/motor-grafico.jar
 ## ⚙️ Requisitos mínimos
 - Java 17+
 - Navegador moderno (Chrome, Firefox, Edge)
+
+## Reconstruir el JAR
+- mvn clean package
+y luego java -jar target/motor-grafico.jar

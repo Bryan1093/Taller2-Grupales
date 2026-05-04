@@ -1,0 +1,5 @@
+backend\logica\EfectosRetro.class
+backend\logica\FiltrosEspaciales.class
+backend\logica\FiltrosBasicos.class
+backend\logica\Generadores.class
+backend\App.class
